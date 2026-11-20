@@ -1,3 +1,5 @@
+> **This repository has moved.** This widget now lives in [nhatnguyet-widgets/xo-so](https://github.com/Nhat-Nguyet/nhatnguyet-widgets/tree/main/xo-so), together with the other 13 widgets. This repository is archived.
+
 # Lottery results
 
 The latest results for Vietnam's three regional lotteries and Vietlott, updated after each draw.

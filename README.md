@@ -1,3 +1,5 @@
+> **Kho này đã chuyển.** Widget này nay nằm ở [nhatnguyet-widgets/xo-so](https://github.com/Nhat-Nguyet/nhatnguyet-widgets/tree/main/xo-so), cùng 13 widget khác. Kho này chỉ còn để lưu trữ.
+
 # Kết quả xổ số
 
 Kết quả xổ số ba miền và Vietlott kỳ mới nhất, tự cập nhật sau giờ quay mỗi ngày.
